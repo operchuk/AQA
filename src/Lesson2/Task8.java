@@ -1,3 +1,5 @@
+package Lesson2;
+
 public class Task8 {
     //Виведіть усі числа від 1 до 100, які діляться на 3 або на 5, але не діляться на 2.
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package Lesson2;
+
 public class Task1 {
     public static void main(String[] args) {
         float a = 10;

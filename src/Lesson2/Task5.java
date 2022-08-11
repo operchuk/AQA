@@ -1,3 +1,5 @@
+package Lesson2;
+
 public class Task5 {
     //Створіть програму, яка обчислює факторіал цілого значення n.
     public static void main(String[] args) {

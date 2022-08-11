@@ -1,3 +1,5 @@
+package Lesson2;
+
 public class Task7 {
     //Створіть масив із 10 цілих чисел. Обчисліть і виведіть суму всіх його елементів, крім першого й останнього.
     public static void main(String[] args) {
