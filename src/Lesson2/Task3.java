@@ -1,3 +1,5 @@
+package Lesson2;
+
 public class Task3 {
  //Створити масив з 10 елементів, заповнити випадковими цілими числами, вивести на екран, кожний елемент з нового рядка
     public static void main(String[] args) {
