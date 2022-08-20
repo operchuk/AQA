@@ -5,7 +5,7 @@ public class Task9 {
     public static void main(String[] args) {
                 int [] numbers = {69, 56, 23, 5, 39};
                 printArray(numbers);
-                SelectionSort(numbers);
+                selectionSort(numbers);
         printArray(numbers);
     }
     public static void printArray(int [] array){
@@ -14,7 +14,7 @@ public class Task9 {
         }
         System.out.println("");
     }
-    public static void SelectionSort(int [] array){
+    public static void selectionSort(int [] array){
         for (int i=0; i<array.length; i++){
             int min = array[i];
             int min_i = i;
